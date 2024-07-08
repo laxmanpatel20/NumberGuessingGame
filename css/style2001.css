@@ -1,0 +1,62 @@
+
+
+.bg-container{
+    background-color: #75b4f3;
+    height: 100%;
+}
+.guess-game-img{
+    width: 100%;
+}
+.guess-descr{
+    color: #1c2c3a;
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: 500;
+    margin: 30px;
+}
+.guess-bg-container{
+    background-color: #246db6;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: 50vh;
+}
+.guess-heading{
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 70px;
+    font-weight: 500;
+}
+.guess-number-image{
+    width: 70px;
+}
+.user-input{
+    color: black;
+    text-align: center;
+    font-family: "Roboto";
+    font-weight: 500;
+    padding: 30px;
+    font-size: 50px;
+    width: 40vh;
+    margin-top: 30px;
+}
+.check-guess{
+    background-color: #ddb047;
+    text-align: center;
+    color:#1f1b17;
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: 400;
+    padding: 20px;
+    margin-top: 30px;
+    border-radius: 10px;
+    width: 20vh;
+
+}
+.guess-results{
+    color: rgb(22, 163, 116);
+    font-family: "Roboto";
+    font-size: 60px;
+    font-weight: 600;
+    margin-top: 20px;
+    
+}
